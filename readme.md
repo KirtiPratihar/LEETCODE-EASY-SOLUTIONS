@@ -15,7 +15,3 @@ This repository contains solutions to **LeetCode Easy** level problems, implemen
 - **Tests**: Basic test cases are provided at the end of each notebook to demonstrate the correctness of the solution.
 
 ## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/leetcode-easy-solutions.git
