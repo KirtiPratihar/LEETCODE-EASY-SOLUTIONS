@@ -1,3 +1,4 @@
+
 # LeetCode Easy Solutions in Jupyter
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Easy-brightgreen)
@@ -18,3 +19,31 @@ This repository contains solutions to **LeetCode Easy** level problems, implemen
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/leetcode-easy-solutions.git
+2. Navigate to the project folder:
+   '''bash
+   cd leetcode-easy-solutions
+3. Install necessary dependencies (if any):
+   '''bash
+   pip install -r requirements.txt
+4. Open the Jupyter notebooks:
+   '''bash
+jupyter notebook
+Choose a notebook from the list and run it to see the solution and test cases.
+
+Sample Problem
+Each problem notebook includes the following sections:
+
+Problem Description: A brief description of the LeetCode problem (with the link to the problem).
+Approach: Explanation of the chosen approach to solve the problem.
+Code: Python implementation of the solution.
+Test Cases: A few test cases used to verify the correctness of the solution.
+Contribution
+Feel free to fork this repository, add more solutions, and submit a pull request. Suggestions and improvements are welcome!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Author
+Your Name
+GitHub
+LinkedIn
