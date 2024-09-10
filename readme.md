@@ -1,4 +1,3 @@
-This is the folder for leetcode easy problems solutions
 # LeetCode Easy Solutions in Jupyter
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Easy-brightgreen)
