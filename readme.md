@@ -45,6 +45,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
-Your Name
-GitHub
-LinkedIn
+Name- Kirti Pratihar
+GitHub-
+LinkedIn -www.linkedin.com/in/kirti-pratihar-426072279
