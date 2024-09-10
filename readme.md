@@ -20,13 +20,13 @@ This repository contains solutions to **LeetCode Easy** level problems, implemen
    ```bash
    git clone https://github.com/your-username/leetcode-easy-solutions.git
 2. Navigate to the project folder:
-   '''bash
+   ```bash
    cd leetcode-easy-solutions
 3. Install necessary dependencies (if any):
-   '''bash
+   ```bash
    pip install -r requirements.txt
 4. Open the Jupyter notebooks:
-   '''bash
+   ```bash
    jupyter notebook
 6. Choose a notebook from the list and run it to see the solution and test cases.
 
