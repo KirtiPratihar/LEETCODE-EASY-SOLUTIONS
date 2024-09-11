@@ -28,7 +28,7 @@ This repository contains solutions to **LeetCode Easy** level problems, implemen
 4. Open the Jupyter notebooks:
    ```bash
    jupyter notebook
-6. Choose a notebook from the list and run it to see the solution and test cases.
+5. Choose a notebook from the list and run it to see the solution and test cases.
 
 Sample Problem
 Each problem notebook includes the following sections:
